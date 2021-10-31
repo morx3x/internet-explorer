@@ -23,7 +23,8 @@ TODO...
 TODO...
 
 # Built With
-TODO...
+- [GO](https://golang.org/)
+- [cron](https://en.wikipedia.org/wiki/Cron)
 
 # Contributing
 Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us.
