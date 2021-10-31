@@ -1,4 +1,5 @@
 # Internet Explorer
+Collect new websites from social networking sites, blogs, and news sites.
 
 # Getting Started
 
